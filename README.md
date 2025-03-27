@@ -1,6 +1,6 @@
 ### ¡Hola, soy Francisco Rodríguez Alcón! 👋
 
-💻 **Estudiante de Ingeniería Informática** en la **Universidad de Cádiz (UCA)**. Apasionado por la programación, el desarrollo de software y la tecnología en general.
+💻 **Estudiante de Ingeniería Informática** en la **Universidad de Cádiz (UCA)**. Apasionado por la programación, el desarrollo de software y las matemáticas.
 
 ---
 
@@ -19,15 +19,15 @@
 
 ### 📊 Estadísticas de GitHub:
 
-![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=FranciscoRodriguezAlcon&show_icons=true&theme=tokyonight)
+![Francisco's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiskoroal&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=FranciscoRodriguezAlcon&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiskoroal&layout=compact&theme=tokyonight)
 
 ---
 
 ### 🌎 Conéctate conmigo:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tu_perfil/)
-[![Mi Web](https://img.shields.io/badge/Mi_Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tuweb.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kiskorodriguezz/)
+[![Mi Web](https://img.shields.io/badge/Mi_Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kiskoroal.github.com/franciscorodriguez)
 
 📌 *Siempre aprendiendo y explorando nuevas tecnologías.* 🚀
