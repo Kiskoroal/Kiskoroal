@@ -1,4 +1,4 @@
-### ¡Hola, soy Francisco Rodríguez Alcón! 👋
+### <img src="https://raw.githubusercontent.com/FranciscoRodriguezAlcon/FranciscoRodriguezAlcon/main/typing.gif" width="24px"> `Hola, soy Francisco Rodríguez Alcón!` 👋
 
 💻 **Estudiante de Ingeniería Informática** en la **Universidad de Cádiz (UCA)**. Apasionado por la programación, el desarrollo de software y las matemáticas.
 
@@ -28,6 +28,6 @@
 ### 🌎 Conéctate conmigo:
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/kiskorodriguezz/)
-[![Mi Web](https://img.shields.io/badge/Mi_Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kiskoroal.github.com/franciscorodriguez)
+[![Mi Web](https://img.shields.io/badge/Mi_Web-000000?style=for-the-badge&logo=google-chrome&logoColor=white)](https://kiskoroal.github.io/franciscorodriguez)
 
 📌 *Siempre aprendiendo y explorando nuevas tecnologías.* 🚀
