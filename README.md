@@ -1,7 +1,7 @@
 <styles>
   .hello{
     border-radius: 1em;
-  }
+  };
 </styles>
 
 <p align="center">
