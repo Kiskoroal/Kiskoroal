@@ -1,5 +1,11 @@
+<style>
+  .hello{
+    border-radius: 1em;
+  }
+</style>
+
 <p align="center">
-  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFZE_gMSY6cNg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724083453821?e=2147483647&v=beta&t=Hpn50WU2YIcmibEL2idP1s8LxA39uY5jwAvFrTDS5dU" height="230"/>
+  <img src="https://media.licdn.com/dms/image/v2/D4D22AQFZE_gMSY6cNg/feedshare-shrink_2048_1536/feedshare-shrink_2048_1536/0/1724083453821?e=2147483647&v=beta&t=Hpn50WU2YIcmibEL2idP1s8LxA39uY5jwAvFrTDS5dU" height="230" class = "hello"/>
 </p>
 <hr>
 
