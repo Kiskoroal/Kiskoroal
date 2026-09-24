@@ -1,18 +1,18 @@
-### <p align="center">
+<p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=600&lines=Hola,+soy+Kiskoroal+de+GII!+%F0%9F%91%8B" alt="Typing animation" />
 </p>
-
 
 💻 **Estudiante de Ingeniería Informática** en la **Universidad de Cádiz (UCA)**. Apasionado por la programación, el desarrollo de software y las matemáticas.
 
 ---
 
-### 🚀 Tecnologias controladas:
+### 🚀 Tecnologías controladas:
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 📖 **Estudiando:**
 
@@ -22,9 +22,13 @@
 
 ### 📊 Estadísticas de GitHub:
 
-![Kiskoroal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiskoroal&show_icons=true&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Kiskoroal&show_icons=true&theme=tokyonight" alt="Kiskoroal's GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kiskoroal&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Kiskoroal&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
 
 ---
 
